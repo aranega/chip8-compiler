@@ -1,0 +1,12 @@
+TODO:
+- Add preproc. keywords
+- yaca.c and code.c refactoring
+- Improve syntax error management
+- Add multi data definition
+
+FIXED:
+- Modifying some mnemonic name
+- Added ';' as comment beginning
+- Fixed many bugs
+- Added "db" and "dw" keywords
+
